@@ -9,13 +9,14 @@ footer {
     border-style: solid 10px;
     border-top-color: #4aaaa5;
     background-color: grey;
+    border-top: 8px solid #4aaaa5
 }
 body  {
     background-image: url("https://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg");
     background-color: #cccccc;
 }
 
-ul, footer {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
